@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.clear-fix{
+
+	clear:both;
+}
+
+.container{
+
+	background-color: lightgreen;
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top: 20px;
+
+}
+
+#profile{
+	width: 30%;
+	height: 100%;
+	border:2px black solid;
+	box-sizing: border-box;
+	float: left;
+}
+
+#welcome-div{
+	width: 70%;
+	height: 100%;
+	border: 2px black solid;
+	box-sizing: border-box;
+	float: right;
+}
+
+#profile-pic{
+
+	width: 70%;
+	margin: 20px;
+	margin-top: 30px;
+	height: 40%;
+	border-radius: 150px;
+}
+
+ul{
+	margin-left: 20px;
+}
